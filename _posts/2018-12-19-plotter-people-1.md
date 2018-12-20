@@ -1,6 +1,7 @@
 ---
 title: "Plotter People #1"
 date: 2018-12-19 13:38:00 -0800
+venue: GitHub SF, [88 Colin P Kelly Jr St, San Francisco, CA 94107](https://goo.gl/maps/fY73YaqfztR2)
 categories: event
 ---
 
@@ -9,7 +10,7 @@ categories: event
 This is the inaugural Plotter People meetup! It's gonna be rad.
 
 **When**: Monday Jan 14, 2019, 6:30-9:00pm<br/>
-**Where**: GitHub SF, [88 Colin P Kelly Jr St, San Francisco, CA 94107](https://goo.gl/maps/fY73YaqfztR2)
+**Where**: {{ page.venue }}
 
 <button onclick="alert('cool')">RSVP</button>
 
@@ -36,10 +37,11 @@ Scientist Laboratories in Sunnyvale, California. Follow her on Twitter at
 
 ## Schedule
 
-idk some information about:
-- when to show up (just repeat above)
-- the gallery event post-talks
-- food
+| 6:30pm | Arrive at {{ page.venue }}.<br/>Make some new friends! |
+| 7:00pm | **Sher Minn**<br/>Recreating retro plotter art |
+| 7:30pm | **Lenore Edman**<br/>Plotter Projects of Evil Mad Scientist Laboratories |
+| 8:00pm | **Gallery + Food**<br/>Grab a bite to eat, check out what folks are working on, and ask them questions! You might get a chance to see some live plotting action, too. |
+| 9:00pm | Head home with a belly full of food and a head full of ideas! |
 
 <!-- another rsvp button for good measure -->
 <button onclick="alert('cool')">RSVP</button>

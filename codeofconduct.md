@@ -4,9 +4,9 @@ layout: default
 
 # Code of Conduct
 
-All speakers, sponsors, volunteers and organizers at any Plotter People event
-are required to abide by the following code of conduct. Organizers will enforce
-this code throughout the event.
+All attendees, speakers, sponsors, volunteers and organizers at any Plotter
+People event are required to abide by the following code of conduct. Organizers
+will enforce this code throughout the event.
 
 ## How to Get in Touch
 
