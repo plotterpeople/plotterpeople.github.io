@@ -1,4 +1,4 @@
-title: Plotter People SF
+title: Plotter People
 email: nornagon@nornagon.net
 description: >-
   Plotter People is a meetup for creative coders and people interested in
@@ -8,7 +8,7 @@ url: "https://plotterpeople.github.io"
 twitter_username: plotterpeople
 github_username: plotterpeople
 
-logo: /assets/img/logo.png
+logo: /assets/img/pp_logo.png
 
 markdown: kramdown
 plugins:

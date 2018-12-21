@@ -1,0 +1,67 @@
+// ======================================================================
+// Details
+// ======================================================================
+
+.section-header {
+	margin-top: 2rem;
+}
+
+.when-and-where {
+	width: 66%;
+	margin: 0 auto;
+	display: flex;
+	align: top;
+	text-align: center;
+}
+
+.when, .where {
+	flex: 0 0 50%;
+
+	h4 {
+		margin-bottom: 0.25em;
+	}
+}
+
+.rsvp {
+	padding: 0.5em 0.75em;
+	margin: 1rem 0 1rem 50%;
+	transform: translateX(-50%);
+
+	outline: none;
+	border: none;
+	border-radius: 2px;
+	background-color: $highlight;
+
+	color: white;
+	font-family: Roboto, sans-serif;
+	font-size: 18px;
+	font-weight: 900;
+	cursor: pointer;
+}
+
+.squiggly {
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	width: calc(100% + 8rem);
+	margin-left: -4rem;
+	background-image: url('/assets/img/squiggly.svg');
+	background-position: center;
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+.speaker {
+	display: flex;
+}
+
+.speaker-description {
+	flex: 0 0 60%;
+}
+
+.speaker-image {
+	flex: 0 0 40%;
+	padding-left: 4em;
+	width: 100%;
+	height: auto;
+}
