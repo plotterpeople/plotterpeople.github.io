@@ -1,6 +1,6 @@
 ---
 title: "Plotter People #1"
-date: 2018-12-19 13:38:00 -0800
+date: 2019-01-14 18:30:00 -0800
 venue: GitHub SF, [88 Colin P Kelly Jr St, San Francisco, CA 94107](https://goo.gl/maps/fY73YaqfztR2)
 categories: event
 ---
