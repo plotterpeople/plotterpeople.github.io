@@ -1,0 +1,18 @@
+---
+layout: none
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://www.example.com/
+METHOD:PUBLISH
+{% for post in site.posts limit:10 %}BEGIN:VEVENT
+UID:{{ post.date | date: "%Y%m%d" }}@example.com
+ORGANIZER;CN="Organizer Name":MAILTO:plotterpeople@nornagon.net
+LOCATION:{{ post.venue }}
+SUMMARY:{{ post.title }}
+CLASS:PUBLIC
+DTSTART;TZID=/US/Pacific:{{ post.date | date: "%Y%m%d" }}T183000
+DTEND;TZID=/US/Pacific:{{ post.date | date: "%Y%m%d" }}T210000
+DTSTAMP;TZID=/US/Pacific:{{ post.date | date: "%Y%m%d" }}T183000
+END:VEVENT{% endfor %}
+END:VCALENDAR

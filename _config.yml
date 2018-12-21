@@ -10,6 +10,8 @@ github_username: plotterpeople
 
 logo: /assets/img/pp_logo.png
 
+future: true
+
 markdown: kramdown
 plugins:
   - jekyll-feed
