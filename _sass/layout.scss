@@ -6,6 +6,9 @@ body {
 	font-size: 14px;
 	color: $text;
 	@media (max-width: $small) { padding: 0.5rem; }
+
+	// hide horizontal scrollbars
+	overflow-x: hidden;
 }
 
 .wrapper {
