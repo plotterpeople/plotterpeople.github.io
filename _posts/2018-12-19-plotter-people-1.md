@@ -70,7 +70,7 @@ Scientist Laboratories in Sunnyvale, California. Follow her on Twitter at
 | 6:30pm | Arrive at {{ page.venue }}.<br/>Make some new friends! |
 | 7:00pm | **Sher Minn**<br/>Recreating retro plotter art |
 | 7:30pm | **Lenore Edman**<br/>Plotter Projects of Evil Mad Scientist Laboratories |
-| 8:00pm | **Gallery + Food**<br/>Grab a bite to eat, check out what folks are working on, and ask them questions! We'll have plotters running — you might even get to plot your own SVGs! |
+| 8:00pm | **Gallery + Food**<br/>Grab a bite to eat, check out what folks are working on, and ask them questions! We'll have plotters running---you might even get to plot your own SVGs! |
 | 9:00pm | Head home with a belly full of food and a head full of ideas! |
 
 {% include eventbrite-button.html %}
