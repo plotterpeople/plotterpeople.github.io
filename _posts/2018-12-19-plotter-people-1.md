@@ -9,7 +9,11 @@ categories: event
 
 {::options parse_block_html="true" /}
 
-Plotter People is a meetup for creative coders and people interested in collaborating with robots to make art. You'll get to talk to folks who make generative art in a wide variety of programming languages and software environments, and you'll get access to pen plotters and the people who make them.
+Plotter People is a meetup for creative coders and people interested in
+collaborating with robots to make art. You'll get to talk to folks who make
+generative art in a wide variety of programming languages and software
+environments, and you'll get access to pen plotters and the people who make
+them.
 
 <div class="when-and-where">
 <div class="when">
@@ -21,6 +25,9 @@ Plotter People is a meetup for creative coders and people interested in collabor
 {{ page.venue }}
 </div>
 </div>
+
+Plotter People is free to attend thanks to GitHub's generous donation of event
+space, but please RSVP so we know how many people to expect!
 
 {::options parse_block_html="false" /}
 
