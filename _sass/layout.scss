@@ -1,17 +1,28 @@
 body {
+	margin: 0;
 	padding: 2rem;
 	font-family: Roboto, sans-serif;
 	font-weight: 400;
 	font-size: 14px;
 	color: $text;
+	@media (max-width: $small) { padding: 0.5rem; }
 }
 
 .wrapper {
+	position: relative;
 	width: 100%;
 	max-width: 760px;
 	margin: 0 auto;
 	padding: 0 4rem 2rem 4rem;
 	border: 5px solid $teal;
+
+	@media (max-width: $small) {
+		padding: 0 1.5rem 1rem 1.5rem;
+	}
+
+	@media (max-width: $phone) {
+		padding: 0 0.75rem 0.5rem 0.75rem;
+	}
 }
 
 header {
@@ -29,14 +40,18 @@ table {
 	border-collapse:collapse;
 }
 
-th, td {
+td {
 	text-align:left;
 	padding: 1em 2em;
 	border-bottom: 1px solid $teal-light;
+
+	@media (max-width: $small) {
+		padding: 1rem 0.5rem;
+	}
 }
 
-.no-margin-bottom {
-	margin-bottom: 0 !important;
+.hidden {
+	display: none;
 }
 
 // ======================================================================
@@ -46,9 +61,13 @@ th, td {
 h1 {
 	top: -0.6em;
 	font-size: 36px;
+	@media (max-width: $small) { font-size: 24px; }
 }
 
-h2 { font-size: 24px; }
+h2 {
+	font-size: 24px;
+	@media (max-width: $small) { font-size: 20px; }
+}
 h3 { font-size: 24px; }
 
 h1, h2, h3 {

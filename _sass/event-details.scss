@@ -12,6 +12,14 @@
 	display: flex;
 	align: top;
 	text-align: center;
+
+	@media (max-width: 760px) {
+		width: 100%;
+	}
+
+	@media (max-width: $small) {
+		display: block;
+	}
 }
 
 .when, .where {
@@ -19,6 +27,14 @@
 
 	h4 {
 		margin-bottom: 0.25em;
+
+		@media (max-width: $phone) {
+			margin-bottom: 0;
+		}
+	}
+
+	@media (max-width: $phone) {
+		p { margin-top: 0.25em; }
 	}
 }
 
@@ -49,10 +65,28 @@
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	text-align: center;
+
+	@media (max-width: $small) {
+		width: calc(100% + 3rem);
+		margin-top: 1.5rem;
+		margin-bottom: 1.5rem;
+		margin-left: -1.5rem;
+		background-size: 200% auto;
+	}
+
+	@media (max-width: $phone) {
+		width: calc(100% + 1.5rem);
+		margin-left: -0.75rem;
+		background-size: 300% auto;
+	}
 }
 
 .speaker {
 	display: flex;
+
+	@media (max-width: $small) {
+		display: block;
+	}
 }
 
 .speaker-description {
@@ -63,5 +97,12 @@
 	flex: 0 0 40%;
 	padding-left: 4em;
 	width: 100%;
+	margin: 0 auto;
 	height: auto;
+
+	@media (max-width: $small) {
+		display: block;
+		width: 50%;
+		padding-left: 0;
+	}
 }

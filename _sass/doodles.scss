@@ -1,0 +1,47 @@
+.doodle-box {
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	bottom: 0;
+
+	@media (max-width: 900px) {
+		display: none;
+	}
+}
+
+.doodle-box--left {
+	right: 100%;
+	width: calc((100vw - 760px) / 2);
+}
+
+.doodle-box--right {
+	left: 100%;
+	width: calc((100vw - 760px) / 2);
+}
+
+// ----------------------------------------
+.big-diamond, .small-diamond {
+	position: absolute;
+}
+
+.big-diamond rect {
+	stroke-dasharray: 40;
+	animation: big-dash 2s linear infinite;
+}
+
+// .small-diamond rect {
+// 	stroke-dasharray: 20;
+// 	animation: small-dash 1s linear infinite;
+// }
+
+@keyframes big-dash {
+	to {
+		stroke-dashoffset: 80;
+	}
+}
+
+// @keyframes small-dash {
+// 	to {
+// 		stroke-dashoffset: 40;
+// 	}
+// }
