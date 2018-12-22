@@ -37,10 +37,10 @@ Plotter People is a meetup for creative coders and people interested in collabor
 
 <div class="speaker">
 <div class="speaker-description">
-#### Sher Minn: Recreating retro plotter art
+#### Sher Minn: Recreating Retro Plotter Art
 
-A brief history of generative art and techniques that people have used with
-plotters since before the Internet.
+A brief history of making art with robots, some techniques that people have
+used to create art with plotters, and how to recreate them.
 
 Sher Minn is a programmer, an artist and a Recurse Center alum living in New
 York. Follow her on Twitter at [@piratefsh](https://twitter.com/piratefsh)!
@@ -53,8 +53,9 @@ York. Follow her on Twitter at [@piratefsh](https://twitter.com/piratefsh)!
 <div class="speaker-description">
 #### Lenore Edman: Plotter Projects of Evil Mad Scientist Laboratories
 
-A history of projects that [EMSL](https://www.evilmadscientist.com/) has done
-with plotters all the way up through to the AxiDraw.
+A history of plotter projects that [EMSL](https://www.evilmadscientist.com/)
+has worked on, from the first e-paper plotter they made in 2007 to the wildly
+popular AxiDraw.
 
 Lenore Edman is a maker of exceptional writing and drawing machines at Evil Mad
 Scientist Laboratories in Sunnyvale, California. Follow her on Twitter at
