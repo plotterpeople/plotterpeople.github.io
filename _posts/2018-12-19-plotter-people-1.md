@@ -3,6 +3,7 @@ title: "Plotter People #1"
 date: 2019-01-14 18:30:00 -0800
 date_label: Monday Jan 14, 2019<br/>6:30 - 9:00pm
 venue: GitHub SF<br/>[88 Colin P Kelly Jr St,<br/>San Francisco, CA 94107](https://goo.gl/maps/fY73YaqfztR2)
+eventbrite_id: 53937598810
 categories: event
 ---
 
@@ -21,9 +22,9 @@ Plotter People is a meetup for creative coders and people interested in collabor
 </div>
 </div>
 
-<button class="rsvp" onclick="alert('cool')">RSVP</button>
-
 {::options parse_block_html="false" /}
+
+{% include eventbrite-button.html %}
 
 <div class="squiggly">
 	<h2>{{ page.title }}</h2>
@@ -72,8 +73,7 @@ Scientist Laboratories in Sunnyvale, California. Follow her on Twitter at
 | 8:00pm | **Gallery + Food**<br/>Grab a bite to eat, check out what folks are working on, and ask them questions! We'll have plotters running — you might even get to plot your own SVGs! |
 | 9:00pm | Head home with a belly full of food and a head full of ideas! |
 
-<!-- another rsvp button for good measure -->
-<button class="rsvp" onclick="alert('cool')">RSVP</button>
+{% include eventbrite-button.html %}
 
 {:.section-header}
 ### Code of Conduct
@@ -82,3 +82,16 @@ All attendees, speakers, sponsors, volunteers and organizers are required to
 abide by the [Plotter People Code of Conduct][coc].
 
 [coc]: /codeofconduct.html
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+<script type="text/javascript">
+(window.rsvpIds || []).forEach(function (id) {
+	window.EBWidgets.createWidget({
+		widgetType: 'checkout',
+		eventId: '{{ page.eventbrite_id }}',
+		modal: true,
+		modalTriggerElementId: id,
+		onOrderComplete: function() {},
+	})
+})
+</script>
