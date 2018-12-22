@@ -47,6 +47,7 @@ td {
 	text-align:left;
 	padding: 1em 2em;
 	border-bottom: 1px solid $teal-light;
+	vertical-align: top;
 
 	@media (max-width: $small) {
 		padding: 1rem 0.5rem;
