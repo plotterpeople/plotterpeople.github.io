@@ -23,6 +23,7 @@ them.
 <div class="where">
 <h4>Where</h4>
 {{ page.venue }}
+<small>This venue is wheelchair-accessible.</small>
 </div>
 </div>
 
