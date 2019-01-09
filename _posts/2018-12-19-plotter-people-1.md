@@ -34,6 +34,8 @@ space, but please RSVP so we know how many people to expect!
 
 {% include eventbrite-button.html %}
 
+{% include subscribe-form.html %}
+
 <div class="squiggly">
 	<h2>{{ page.title }}</h2>
 </div>
