@@ -1,0 +1,40 @@
+// ======================================================================
+// Mailing List Form
+// ======================================================================
+
+.tinyletter {
+	margin: 2rem 0;
+	padding: 1px;
+	border: none;
+	background-color: #efefef;
+	text-align: center;
+}
+
+.subscribe-label {
+	margin-bottom: 3px;
+	margin-right: 1rem;
+
+	@media (max-width: 720px) {
+		display: block;
+	}
+}
+
+.subscribe-input {
+	font-family: Roboto, sans-serif;
+	font-size: 14px;
+	padding: 7px 5px;
+	border: none;
+	border-radius: 2px;
+}
+
+.subscribe-button {
+	display: inline-block;
+	padding: 0.5em 0.75em;
+	border: none;
+	outline: none;
+	border-radius: 2px;
+	font-family: Roboto, sans-serif;
+	font-size: 14px;
+	background-color: $highlight;
+	color: white;
+}
