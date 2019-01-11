@@ -12,7 +12,7 @@ A new creative community has been forming behind a hashtag on twitter — #plott
 
 We'll be enforcing a Code of Conduct tonight which you can read on the website; here's the short version (point to slide on screen). We won't tolerate any kind of harrassment and our first job as organizers here is to make sure you feel safe. Please come talk to us if you see or hear anything inappropriate; if you can't find us, DM @plotterpeople on twitter; or if you need to report something anonymously, please text this number and we'll both get a notification.
 
-Finally: thank you to GitHub for sponsoring this event, and thank you to Sher, Lenore, and Oskay, who all traveled to be here.
+Finally: thank you to GitHub for sponsoring this event, and thank you to Sher, Lenore, and Windell, who all traveled to be here.
 
 Over the next hour we'll hear from Sher and Lenore, and then for the rest of the night we'll have an open floor with plotters running and food right over there (point to the food).
 
