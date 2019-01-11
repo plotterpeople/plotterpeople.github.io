@@ -12,18 +12,18 @@ A new creative community has been forming behind a hashtag on twitter — #plott
 
 We'll be enforcing a Code of Conduct tonight which you can read on the website; here's the short version (point to slide on screen). We won't tolerate any kind of harrassment and our first job as organizers here is to make sure you feel safe. Please come talk to us if you see or hear anything inappropriate; if you can't find us, DM @plotterpeople on twitter; or if you need to report something anonymously, please text this number and we'll both get a notification.
 
-Finally: thank you to GitHub for sponsoring this event, and thank you to Sher, Lenore, and Windell, who all traveled to be here.
+Finally: thank you to GitHub for sponsoring this event, and thank you to Sher Minn, Lenore, and Windell, who all traveled to be here.
 
-Over the next hour we'll hear from Sher and Lenore, and then for the rest of the night we'll have an open floor with plotters running and food right over there (point to the food).
+Over the next hour we'll hear from Sher Minn and Lenore, and then for the rest of the night we'll have an open floor with plotters running and food right over there (point to the food).
 
-## Sher's talk!
-Jeremy will intro Sher.
+## Sher Minn's talk!
+Jeremy will intro Sher Minn.
 
 ## Lenore's talk!
 Jeremy will intro Lenore.
 
 ## Wrap-up - 8:00pm ish
-Thank you again to Sher and Lenore for being here tonight! The rest of the event will be pretty open-ended; Jeremy and I will be running plotters and answering your questions about tools and process and algorithms and whatever else is on your mind. We've got art on display, both framed and unframed; please don't touch it unless it's marked as something you can take.
+Thank you again to Sher Minn and Lenore for being here tonight! The rest of the event will be pretty open-ended; Jeremy and I will be running plotters and answering your questions about tools and process and algorithms and whatever else is on your mind. We've got art on display, both framed and unframed; please don't touch it unless it's marked as something you can take.
 
 We're excited to make this a regular event so tell us what you think and let us know how we can make this something you'll enjoy coming back to. If you've got an idea for a talk or there's a topic you're anxious to learn more about, tell us tonight or DM us on twitter.
 
