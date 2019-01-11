@@ -14,9 +14,8 @@ If you see, hear, or over-hear anything that makes you uncomfortable, please
 find one of us and we'll do what we can to make it right.
 
 If you can't immediately find one of us in person if you see or hear something,
-you can email [plotterpeople@nornagon.net](mailto:plotterpeople@nornagon.net).
-
-<!-- TODO: add a twilio bridge and comment form a la https://github.com/wafflejs/conduct -->
+you can send an anonymous SMS to [**(415) 237-7262**](sms:+14152377262), or email
+[plotterpeople@nornagon.net](mailto:plotterpeople@nornagon.net).
 
 ## The Quick Version
 
