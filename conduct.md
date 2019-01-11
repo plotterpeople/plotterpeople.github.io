@@ -17,6 +17,39 @@ If you can't immediately find one of us in person if you see or hear something,
 you can send an anonymous SMS to [**(415) 237-7262**](sms:+14152377262), or email
 [plotterpeople@nornagon.net](mailto:plotterpeople@nornagon.net).
 
+Or, you can submit an anonymous report right here.
+
+<script>
+function cocSubmit(e) {
+  e.preventDefault()
+  fetch('https://ppconduct.herokuapp.com', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({description: description.value}),
+  }).then(response => {
+    reportform.style.display = 'none'
+    reportresult.style.display = null
+    reportresult.style.color = 'green'
+    reportresult.textContent = 'Thank you. The organizers have been notified.'
+  }).catch(e => {
+    reportresult.style.display = null
+    reportresult.style.color = 'red'
+    reportresult.textContent = 'There was a problem notifying the organizers. Try again, or text (415) 237-7267.'
+  })
+}
+</script>
+<form id="reportform" onsubmit="cocSubmit(event)">
+  <p><textarea placeholder="Anonymously send us a report." autofocus required id="description" style="width: 100%; height: 4em; border: 2px solid #b3b3b3; font-size: 1em; padding: .5rem .75rem;"></textarea></p>
+  <button style="border: 2px solid black; padding: 5px 10px; font: inherit; box-shadow: 2px 2px #c3c3c3">Report</button>
+  <p>
+    We’ll review and act on it. If you let us know who you are, we’ll
+    follow up with you.
+  </p>
+</form>
+<p id="reportresult" style="display: none"></p>
+
 ## The Quick Version
 
 Plotter People is dedicated to providing a harassment-free meet-up experience
