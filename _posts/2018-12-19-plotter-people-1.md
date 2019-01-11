@@ -92,7 +92,7 @@ Scientist Laboratories in Sunnyvale, California. Follow her on Twitter at
 All attendees, speakers, sponsors, volunteers and organizers are required to
 abide by the [Plotter People Code of Conduct][coc].
 
-[coc]: /codeofconduct.html
+[coc]: /conduct
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 <script type="text/javascript">
