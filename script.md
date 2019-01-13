@@ -1,4 +1,4 @@
-# Script for Plotter Poeple #1
+# Script for Plotter People #1
 
 _This is a rough script for the first event._
 
