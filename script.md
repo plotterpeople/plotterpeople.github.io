@@ -23,7 +23,7 @@ Jeremy will intro Sher Minn.
 Jeremy will intro Lenore.
 
 ## Wrap-up - 8:00pm ish
-Thank you again to Sher Minn and Lenore for being here tonight! The rest of the event will be pretty open-ended; Jeremy and I will be running plotters and answering your questions about tools and process and algorithms and whatever else is on your mind. We've got art on display, both framed and unframed; please don't touch it unless it's marked as something you can take.
+Thank you again to Sher Minn and Lenore for being here tonight! The rest of the event will be pretty open-ended; Jeremy and I will be running plotters and answering your questions about tools and process and algorithms and whatever else is on your mind. We've got art on display, both framed and unframed; please don't touch it unless it's marked as something you can take. Also there's food! Just a note that the bar will not be available to us tonight---you might see some GitHubbers at the bar, but they can't pour you a glass. It's a legal thing.
 
 We're excited to make this a regular event so tell us what you think and let us know how we can make this something you'll enjoy coming back to. If you've got an idea for a talk or there's a topic you're anxious to learn more about, tell us tonight or DM us on twitter.
 
