@@ -47,9 +47,11 @@ space, but please RSVP so we know how many people to expect!
 
 <div class="speaker">
 <div class="speaker-description">
-#### Chandler Abraham
+#### Chandler Abraham: 3D Rendering For Plotter Art
 
-Chandler Abraham, aka [@cba](https://twitter.com/cba), will be speaking about using geospatial data to make topographic maps of real terrain. Chandler, an ex-Twitter engineer, spends his days working on satellite imagery at Planet Labs.
+A common hurdle in the plotter art journey is the jump from 2D to 3D rendering. Luckily for us, plotters are an incredibly tangible and fun way to experiment with the fundamentals of computer graphics. This talk is a gentle introduction to the first principles of camera geometry and 3D rendering in the context of vector line art.
+
+Chandler Abraham, aka [@cba](https://twitter.com/cba), is an ex-Twitter engineer, spends his days working on satellite imagery at Planet Labs.
 
 </div>
 <img src="{{ site.baseurl }}/assets/img/chandler.jpg" class="speaker-image" />
