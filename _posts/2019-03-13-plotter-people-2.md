@@ -67,7 +67,7 @@ Often when we plot we have access to one color at one pressure, and you might wo
 Geoffrey Bradway, aka [@marchingcubes](https://instagram.com/marchingcubes), will also be showing what the finished piece looks like in the Plotter People gallery!
 
 </div>
-<img src="{{ site.baseurl }}/assets/img/preview.jpg" class="speaker-image" />
+<img src="{{ site.baseurl }}/assets/img/geoffrey.jpg" class="speaker-image" />
 </div>
 
 {:.section-header}
