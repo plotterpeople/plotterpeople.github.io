@@ -60,9 +60,11 @@ Chandler Abraham, aka [@cba](https://twitter.com/cba), is an ex-Twitter engineer
 
 <div class="speaker">
 <div class="speaker-description">
-#### Coming soon!
+#### Geoffrey Bradway: From Monotone to Greyscale
 
-Stay tuned for speaker #2.
+Often when we plot we have access to one color at one pressure, and you might wonder how to broaden the range of your art to get a good light and dark tones. This talk is intended to be a guide to doing exactly that and we are going to talk about the theory behind halftones, techniques people use (stippling, hatching, dithering), algorithms you can use to plot, and some examples that showcase this.
+
+Geoffrey Bradway, aka [@marchingcubes](https://instagram.com/marchingcubes), will also be showing what the finished piece looks like in the Plotter People gallery!
 
 </div>
 <img src="{{ site.baseurl }}/assets/img/preview.jpg" class="speaker-image" />
