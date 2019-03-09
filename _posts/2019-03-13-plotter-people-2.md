@@ -74,7 +74,7 @@ Geoffrey Bradway, aka [@marchingcubes](https://instagram.com/marchingcubes), wil
 ### Schedule
 
 | 6:30pm | Arrive at {{ page.venue }}.<br/>Make some new friends! |
-| 7:00pm | **Chandler**<br/>Making topographical maps |
+| 7:00pm | **Chandler**<br/>3D Rendering For Plotter Art |
 | 7:30pm | **Geoffrey**<br/>From Monotone to Greyscale |
 | 8:00pm | **Gallery + Food**<br/>Grab a bite to eat, check out what folks are working on, and ask them questions! We'll have plotters running---you might even get to plot your own SVGs! |
 | 9:00pm | Head home with a belly full of food and a head full of ideas! |
