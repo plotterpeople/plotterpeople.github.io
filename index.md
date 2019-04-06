@@ -1,6 +1,7 @@
 ---
 layout: event
 ---
-{% for post in site.posts limit:1 %}
+{% assign posts = site.posts | where: "categories","event-sf" %}
+{% for post in posts limit:1 %}
 {{post.content}}
 {% endfor %}

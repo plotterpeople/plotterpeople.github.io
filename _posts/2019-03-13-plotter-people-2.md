@@ -4,7 +4,7 @@ date: 2019-03-13 18:30:00 -0800
 date_label: Wednesday March 13, 2019<br/>6:30 - 9:00pm
 venue: GitHub SF<br/>[88 Colin P Kelly Jr St,<br/>San Francisco, CA 94107](https://goo.gl/maps/fY73YaqfztR2)
 eventbrite_id: 56689095611
-categories: event
+categories: event-sf
 ---
 
 {::options parse_block_html="true" /}
