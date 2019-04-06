@@ -1,7 +1,7 @@
 ---
 title: "Plotter People NYC #1"
 date: 2019-04-11 18:30:00 -0400
-date_label: Tursday, April 11<br/>6:30 - 9:00pm
+date_label: Thursday, April 11<br/>6:30 - 9:00pm
 venue: Teachers Pay Teachers<br>[111 E 18th St., NYC](https://goo.gl/maps/Aehh7cPyigL2)
 categories: event-nyc
 ---
