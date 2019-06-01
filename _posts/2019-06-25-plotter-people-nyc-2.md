@@ -43,7 +43,7 @@ space, but please RSVP so we can sign you in to the building!
 <div class="speaker-description">
 #### Andrew Heumann (<a href="https://twitter.com/andrewheumann">@andrewheumann</a>)
 
-Andrew is a former architect and current researcher at WeWork, and an artist working with generative 3D modeling on nights and weekends. His work can be seen at [@beingheumann](https://www.instagram.com/beingheumann/).
+<a href="http://www.andrewheumann.com/">Andrew</a> is a former architect and current researcher at WeWork, and an artist working with generative 3D modeling on nights and weekends. His work can be seen at [@beingheumann](https://www.instagram.com/beingheumann/).
 
 </div>
 <img src="{{ site.baseurl }}/assets/img/andrew.jpg" class="speaker-image" />
