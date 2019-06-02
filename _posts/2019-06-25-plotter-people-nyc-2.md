@@ -71,9 +71,7 @@ The show-and-tell will be accompanied by a gallery in which attendees can displa
 | 8:00pm | **Gallery + Food**<br/>Grab a bite to eat, check out what folks are working on, and ask them questions! |
 | 9:00pm | Head home with a belly full of food and a head full of ideas! |
 
-<a href="mailto:paulgb@gmail.com?subject=PlotterPeople NYC RSVP&body=I’ll be there!" rel="noopener noreferrer" target="_blank" style="background: none">
-<button class="rsvp" type="button">RSVP</button>
-</a>
+{% include eventbrite-button.html %}
 
 ### Code of Conduct
 
