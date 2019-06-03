@@ -43,7 +43,7 @@ space, but please RSVP so we can sign you in to the building!
 <div class="speaker-description">
 #### Andrew Heumann (<a href="https://twitter.com/andrewheumann">@andrewheumann</a>)
 
-Andrew is a former architect and current researcher at WeWork, and an artist working with generative 3D modeling on nights and weekends. His work can be seen at [@beingheumann](https://www.instagram.com/beingheumann/).
+<a href="http://www.andrewheumann.com/">Andrew</a> is a former architect and current researcher at WeWork, and an artist working with generative 3D modeling on nights and weekends. His work can be seen at [@beingheumann](https://www.instagram.com/beingheumann/).
 
 </div>
 <img src="{{ site.baseurl }}/assets/img/andrew.jpg" class="speaker-image" />
@@ -71,9 +71,7 @@ The show-and-tell will be accompanied by a gallery in which attendees can displa
 | 8:00pm | **Gallery + Food**<br/>Grab a bite to eat, check out what folks are working on, and ask them questions! |
 | 9:00pm | Head home with a belly full of food and a head full of ideas! |
 
-<a href="mailto:paulgb@gmail.com?subject=PlotterPeople NYC RSVP&body=I’ll be there!" rel="noopener noreferrer" target="_blank" style="background: none">
-<button class="rsvp" type="button">RSVP</button>
-</a>
+{% include eventbrite-button.html %}
 
 ### Code of Conduct
 
