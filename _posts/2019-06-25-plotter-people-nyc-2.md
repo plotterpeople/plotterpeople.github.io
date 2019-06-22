@@ -51,12 +51,12 @@ space, but please RSVP so we can sign you in to the building!
 
 <div class="speaker">
 <div class="speaker-description">
-#### Sylvia Heisel (<a href="https://twitter.com/sylviaheisel">@sylviaheisel</a>)
+#### Sash Zats (<a href="https://twitter.com/zats">@zats</a>)
 
-<a href="https://heisel.co/">Sylvia</a> is a fashion designer and creative technologist working with 3D printing, new materials, manufacturing and physical computing for fashion and wearables. Her work can be seen at [@heisel_co](https://www.instagram.com/heisel_co/) and [namesdress.com](https://www.namesdress.com/).
+Sash is a software engineer with design past and metallurgy background. He loves generating art with code, he is particularly excited about pen plotters for two reasons: interesting limitations they impose, and an easy bridge into intimate world on ink-on-pen they provide. His work can be seen at [@zatss](https://www.instagram.com/zatss/).
 
 </div>
-<img src="{{ site.baseurl }}/assets/img/sylvia.jpg" class="speaker-image" />
+<img src="{{ site.baseurl }}/assets/img/sash.jpg" class="speaker-image" />
 </div>
 
 ### Gallery
@@ -66,8 +66,7 @@ The show-and-tell will be accompanied by a gallery in which attendees can displa
 ### Schedule
 
 | 6:30pm | Arrive at {{ page.venue }}.<br/>Make some new friends! |
-| 7:00pm | **Andrew Heumann** |
-| 7:30pm | **Sylvia Heisel** |
+| 7:00pm | **Talks** |
 | 8:00pm | **Gallery + Food**<br/>Grab a bite to eat, check out what folks are working on, and ask them questions! |
 | 9:00pm | Head home with a belly full of food and a head full of ideas! |
 
