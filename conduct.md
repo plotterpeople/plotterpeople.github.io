@@ -14,7 +14,10 @@ If you see, hear, or over-hear anything that makes you uncomfortable, please
 find one of us and we'll do what we can to make it right.
 
 If you can't immediately find one of us in person if you see or hear something,
-you can send an anonymous SMS to [**(415) 237-7262**](sms:+14152377262), or email
+you can contact us in the following ways:
+
+### Plotter People SF
+Send an anonymous SMS to [**(415) 237-7262**](sms:+14152377262), or email
 [plotterpeople@nornagon.net](mailto:plotterpeople@nornagon.net).
 
 Or, you can submit an anonymous report right here.
@@ -49,6 +52,14 @@ function cocSubmit(e) {
   </p>
 </form>
 <p id="reportresult" style="display: none"></p>
+
+### Plotter People NYC
+Send an anonymous SMS to [**(929) 471-3593**](sms:+19294713593), or email
+[plotterpeople@piratefsh.net](mailto:plotterpeople@piratefsh.net).
+
+Or approach any of the organizers at the event, who will be identified at the beginning of the event.
+
+We’ll review and act on it. If you let us know who you are, we’ll follow up with you.
 
 ## The Quick Version
 
